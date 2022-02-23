@@ -1,4 +1,4 @@
-# implement digital and Analog Clock for Rotor Studios. 
+# Implemented Digital and Analog Clock for Rotor Studios. 
 
 - What are all the hooks are used for digital clock and Analog Clock?
   Ans: I used useEffect, useState and custom hooks!
